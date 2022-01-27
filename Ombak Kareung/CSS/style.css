@@ -1,0 +1,74 @@
+.font{
+    font-family: 'Playfair Display SC', serif;
+}
+
+.font2{
+    font-family: Brush Script MT, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 36px;
+}
+
+.font3{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+.font4{
+    font-family: 'Quicksand', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    margin-top: 7rem;
+}
+
+.bgHome{
+    background: url("../Image/bgHome.png")  no-repeat;
+    max-width: 100%;
+    height: 550px;
+}
+
+.bgHome2{
+    background: url("../Image/bgHome2.png") no-repeat;
+    max-width: 100%;
+    height: 550px;
+}
+
+.bgHome3{
+    background: url("../Image/bgHome3.png") no-repeat;
+    max-width: 100%;
+    height: 450px;
+}
+
+.box{
+    background: #FFFFFF;
+    border: 0.996025px solid #000000;
+    box-sizing: border-box;
+    border-radius: 19.9205px;
+    padding: 10px;
+}
+
+.mt-10{
+    margin-top: 5em;
+}
+
+.paddingrl-0{
+    padding-right:0;
+    padding-left:0;
+}
+
+.pt-minus{
+    padding-top: -50%;
+}
+
+.border-15{
+    border-radius: 15px;
+}
+
+.mt-20{
+    margin-top: 10em;
+}
